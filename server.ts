@@ -1522,6 +1522,13 @@ app.put('/api/judge/teams/:id/evaluate', authenticateToken, requireJudge, (req: 
 // ----------------------------------------------------
 
 async function initializeDatabase() {
+  if (!process.env.MONGODB_URI) {
+    const localData = readDb();
+    console.warn('MONGODB_URI is not configured. Running with the local JSON database; persistent cloud storage is disabled.');
+    runtimeDb = localData;
+    return;
+  }
+
   try {
     await connectMongoDb();
     const mongoData = await loadDbFromMongo();
