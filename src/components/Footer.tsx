@@ -18,9 +18,6 @@ export const Footer: React.FC<FooterProps> = ({ onRouteChange }) => {
           {/* Col 1: College and Brand */}
           <div className="md:col-span-2 space-y-4 animate-slide-left" style={{ animationDelay: '100ms' }}>
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-xl bg-slate-950 flex items-center justify-center text-white shadow-inner overflow-hidden logo-hover-spin">
-                <img src="/logo.png" alt="Euphoria'26 logo" className="w-full h-full object-contain" />
-              </div>
               <div>
                 <h3 className="text-white font-extrabold text-xl tracking-tight text-gradient-animated bg-gradient-to-r from-white via-emerald-200 to-teal-200 bg-clip-text text-transparent bg-[length:200%_200%]">Euphoria'26</h3>
                 <p className="text-xs text-emerald-400 font-semibold tracking-wider uppercase">

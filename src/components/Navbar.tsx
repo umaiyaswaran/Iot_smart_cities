@@ -78,12 +78,6 @@ export const Navbar: React.FC<NavbarProps> = ({
             onClick={() => handleNavClick('home')}
             className="flex items-center gap-3.5 cursor-pointer group select-none"
           >
-            <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-emerald-500 via-teal-700 to-slate-950 p-0.5 shadow-md shadow-emerald-900/10 flex items-center justify-center logo-hover-spin">
-              <div className="w-full h-full bg-slate-950 rounded-[10px] flex items-center justify-center relative overflow-hidden">
-                <img src="/logo.png" alt="Euphoria'26 logo" className="w-full h-full object-contain rounded-[10px]" />
-              </div>
-            </div>
-
             <div>
               <div className="flex items-center gap-2">
                 <span className="font-extrabold text-2xl tracking-tight font-display bg-gradient-to-r from-emerald-800 via-emerald-700 to-teal-800 bg-clip-text text-transparent text-gradient-animated bg-[length:200%_200%]">
