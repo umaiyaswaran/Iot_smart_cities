@@ -1,0 +1,6 @@
+{
+  "name": "Euphoria'26 - IoT Based Smart Cities Challenge",
+  "description": "Official event management portal for Euphoria'26: IoT Based Smart Cities Challenge organized by Department of Civil Engineering & Eco Design Club at Meenakshi Sundarajan Engineering College.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

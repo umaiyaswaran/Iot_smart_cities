@@ -1,0 +1,260 @@
+{
+  "users": [
+    {
+      "id": "6ab33141d9c3385995ca2a5c",
+      "username": "Admin",
+      "passwordHash": "$2a$10$H6oVsw9H0JznaD9IIIzmwOV2g.LyGtzrRICQfX0llu07nxwoItQUq",
+      "role": "admin",
+      "createdAt": "2026-09-23T01:54:09.702Z"
+    },
+    {
+      "id": "6ab33141d9c3385995ca2a5d",
+      "username": "Judge",
+      "passwordHash": "$2a$10$3ojwTUs/kkBMrRJIdUdyD.z9d10V5HYECCm6mN8bOug45waJ8wdUO",
+      "role": "judge",
+      "createdAt": "2026-09-23T01:54:09.833Z"
+    }
+  ],
+  "tokens": {},
+  "settings": {
+    "college": "MEENAKSHI SUNDARAJAN ENGINEERING COLLEGE",
+    "autonomous": "Autonomous",
+    "managedBy": "I.I.E.T. Society",
+    "affiliatedTo": "Anna University",
+    "department": "Department of Civil Engineering",
+    "organizedBy": "Eco Design Club",
+    "eventName": "Euphoria'26",
+    "technicalEvent": "IoT Based Smart Cities Challenge",
+    "date": "25/09/2026 – Friday",
+    "time": "10:00 AM – 12:00 PM",
+    "venue": "MSEC Civil Block",
+    "eventStatus": "Event Started",
+    "round1Name": "Technical Quiz",
+    "round1Max": 40,
+    "round2Name": "IoT Based Simulation",
+    "round2Max": 60,
+    "totalMax": 100,
+    "tieBreakerRule": "1. IoT Based Simulation Score → 2. Technical Quiz Score → 3. Admin Manual Resolution"
+  },
+  "teams": [
+    {
+      "id": "team_1790135859632_76",
+      "teamNumber": "1",
+      "teamName": "Zero",
+      "assignedJudge": "Judge",
+      "technicalQuizScore": 0,
+      "problemRelevanceScore": 0,
+      "iotImplementationScore": 0,
+      "simulationWorkingScore": 0,
+      "innovationScore": 0,
+      "presentationVivaScore": 0,
+      "iotSimulationScore": 0,
+      "totalScore": 0,
+      "rank": null,
+      "evaluationStatus": "Not Evaluated",
+      "createdAt": "2026-09-23T03:57:39.632Z",
+      "updatedAt": "2026-09-23T18:00:58.720Z",
+      "members": [
+        {
+          "id": "6ab41405630daca7e0a3706c",
+          "name": "Naren",
+          "registerNumber": "253115106073",
+          "collegeName": "Meenakshi Sundarajan Engineering College",
+          "phoneNumber": "7010769982",
+          "department": "ECE",
+          "academicYear": "Second Year (II)",
+          "attendance": "Absent"
+        },
+        {
+          "id": "6ab41406630daca7e0a3706d",
+          "name": "Bhuvanesh",
+          "registerNumber": "253115106017",
+          "collegeName": "Meenakshi Sundarajan Engineering College",
+          "phoneNumber": "6385368241",
+          "department": "ECE",
+          "academicYear": "Second Year (II)",
+          "attendance": "Absent"
+        }
+      ]
+    },
+    {
+      "id": "team_1790136792090_736",
+      "teamNumber": "3",
+      "teamName": "Quarduino",
+      "assignedJudge": "Judge",
+      "technicalQuizScore": 0,
+      "problemRelevanceScore": 0,
+      "iotImplementationScore": 0,
+      "simulationWorkingScore": 0,
+      "innovationScore": 0,
+      "presentationVivaScore": 0,
+      "iotSimulationScore": 0,
+      "totalScore": 0,
+      "rank": null,
+      "evaluationStatus": "Not Evaluated",
+      "createdAt": "2026-09-23T04:13:12.090Z",
+      "updatedAt": "2026-09-23T17:56:56.666Z",
+      "members": [
+        {
+          "id": "6ab41407630daca7e0a3706e",
+          "name": "Harini A",
+          "registerNumber": "2503412510622333",
+          "collegeName": "Sri Sairam Engineering College ",
+          "phoneNumber": "9043653156",
+          "department": "ECE",
+          "academicYear": "Second Year (II)",
+          "attendance": "Absent"
+        }
+      ]
+    },
+    {
+      "id": "team_1790137012218_897",
+      "teamNumber": "4",
+      "teamName": "Team Astra",
+      "assignedJudge": "Judge",
+      "technicalQuizScore": 0,
+      "problemRelevanceScore": 0,
+      "iotImplementationScore": 0,
+      "simulationWorkingScore": 0,
+      "innovationScore": 0,
+      "presentationVivaScore": 0,
+      "iotSimulationScore": 0,
+      "totalScore": 0,
+      "rank": null,
+      "evaluationStatus": "Not Evaluated",
+      "createdAt": "2026-09-23T04:16:52.218Z",
+      "updatedAt": "2026-09-23T18:00:34.341Z",
+      "members": [
+        {
+          "id": "6ab41402630daca7e0a37065",
+          "name": "Vishalini R",
+          "registerNumber": "2403412510622246",
+          "collegeName": "Sri Sairam Engineering College",
+          "phoneNumber": "7305478951",
+          "department": "ECE",
+          "academicYear": "Third Year (III)",
+          "attendance": "Absent"
+        }
+      ]
+    },
+    {
+      "id": "team_1790138583905_10",
+      "teamNumber": "5",
+      "teamName": "TriVolt",
+      "assignedJudge": "Judge",
+      "technicalQuizScore": 0,
+      "problemRelevanceScore": 0,
+      "iotImplementationScore": 0,
+      "simulationWorkingScore": 0,
+      "innovationScore": 0,
+      "presentationVivaScore": 0,
+      "iotSimulationScore": 0,
+      "totalScore": 0,
+      "rank": null,
+      "evaluationStatus": "Not Evaluated",
+      "createdAt": "2026-09-23T04:43:03.905Z",
+      "updatedAt": "2026-09-23T18:00:03.398Z",
+      "members": [
+        {
+          "id": "6ab41403630daca7e0a37066",
+          "name": "Anuja V S",
+          "registerNumber": "RA2411053020016",
+          "collegeName": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY ",
+          "phoneNumber": "7418638883",
+          "department": "ECE",
+          "academicYear": "Third Year (III)",
+          "attendance": "Absent"
+        },
+        {
+          "id": "6ab41403630daca7e0a37067",
+          "name": "Nandana U",
+          "registerNumber": "RA2411053020038",
+          "collegeName": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY ",
+          "phoneNumber": "9995724634",
+          "department": "ECE",
+          "academicYear": "Third Year (III)",
+          "attendance": "Absent"
+        }
+      ]
+    },
+    {
+      "id": "team_1790145285818_794",
+      "teamNumber": "6",
+      "teamName": "Codematrix",
+      "assignedJudge": "Judge",
+      "technicalQuizScore": 0,
+      "problemRelevanceScore": 0,
+      "iotImplementationScore": 0,
+      "simulationWorkingScore": 0,
+      "innovationScore": 0,
+      "presentationVivaScore": 0,
+      "iotSimulationScore": 0,
+      "totalScore": 0,
+      "rank": null,
+      "evaluationStatus": "Not Evaluated",
+      "createdAt": "2026-09-23T06:34:45.818Z",
+      "updatedAt": "2026-09-23T17:59:55.375Z",
+      "members": [
+        {
+          "id": "6ab41404630daca7e0a37068",
+          "name": "Mahalakshmi S",
+          "registerNumber": "310624205138",
+          "collegeName": "Easwari Engineering College",
+          "phoneNumber": "9025014010",
+          "department": "CSE",
+          "academicYear": "Third Year (III)",
+          "attendance": "Absent"
+        },
+        {
+          "id": "6ab41404630daca7e0a37069",
+          "name": "Pradeep G ",
+          "registerNumber": "310624104613",
+          "collegeName": "Easwari Engineering College",
+          "phoneNumber": "7200203288",
+          "department": "CSE",
+          "academicYear": "Third Year (III)",
+          "attendance": "Absent"
+        },
+        {
+          "id": "6ab41404630daca7e0a3706a",
+          "name": "Bharath Raj B ",
+          "registerNumber": "310624104601",
+          "collegeName": "Easwari Engineering College",
+          "phoneNumber": "9360868507",
+          "department": "CSE",
+          "academicYear": "Third Year (III)",
+          "attendance": "Absent"
+        },
+        {
+          "id": "6ab41404630daca7e0a3706b",
+          "name": "Malleshwaran",
+          "registerNumber": "310624104605",
+          "collegeName": "Easwari Engineering College",
+          "phoneNumber": "9342416734",
+          "department": "CSE",
+          "academicYear": "Third Year (III)",
+          "attendance": "Absent"
+        }
+      ]
+    },
+    {
+      "id": "team_1790146122803_896",
+      "teamNumber": "7",
+      "teamName": "Nexora",
+      "assignedJudge": "Judge",
+      "technicalQuizScore": 0,
+      "problemRelevanceScore": 0,
+      "iotImplementationScore": 0,
+      "simulationWorkingScore": 0,
+      "innovationScore": 0,
+      "presentationVivaScore": 0,
+      "iotSimulationScore": 0,
+      "totalScore": 0,
+      "rank": null,
+      "evaluationStatus": "Not Evaluated",
+      "createdAt": "2026-09-23T06:48:42.803Z",
+      "updatedAt": "2026-09-23T17:57:03.935Z",
+      "members": []
+    }
+  ]
+}
